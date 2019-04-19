@@ -8,7 +8,7 @@
     <artifactId>alicom-dysms-api</artifactId>
     <version>1.0</version>
      <dependencies>
-         <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-core -->
+
          <dependency>
              <groupId>com.aliyun</groupId>
              <artifactId>aliyun-java-sdk-core</artifactId>
